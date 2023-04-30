@@ -154,11 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Leonard Eze - [Github](https://github.com/diexlabs) / [Twitter](https://twitter.com/trevordiex)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Ako Atem Sampson - [Github](https://github.com/Akoatem) 
+=======
 
+>>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
 Second part of Airbnb: Joann Vuong
 
-Third part of Airbnb: Leonard Eze
 ## License
 Public Domain. No copy write protection. 
