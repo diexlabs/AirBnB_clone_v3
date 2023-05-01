@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ako Atem Sampson - [Github](https://github.com/Akoatem) 
+ToluDaniels - [Github](https://github.com/ToluDaniels) 
 =======
 
 >>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
